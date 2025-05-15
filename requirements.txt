@@ -1,0 +1,7 @@
+llama-index-core
+llama-index-llms-groq
+llama-index-embeddings-huggingface
+python-dotenv
+transformers
+torch
+llama-index
